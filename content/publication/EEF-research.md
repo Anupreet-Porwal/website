@@ -7,17 +7,18 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "In *Multidimensional Systems and Signal Processing, 2018*"
-publication_short = "In *MSSP, 2018*"
-tags = ["Accepted-Publications"]
+publication_short = "In *MSSP*"
+#tags = ["Accepted-Publications"]
 projects = ["master2"]
 
 #selected = true
 title = "Order estimation of 2-dimensional complex superimposed exponential signal model using exponentially embedded family (EEF) rule: large sample consistency properties"
-url_code = "#"
+#url_code = "#"
+url_pdf = "files/resources/MSSP_2018_Article_OrderEstimationOf2-dimensional.pdf"
 #url_project = "#"
-url_slides = "#"
-url_preprint = "#"
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_slides = "#"
+#url_preprint = "#"
+
 
 
 # Optional featured image (relative to `static/img/` folder).

@@ -21,7 +21,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *International Joint Conference on Artificial Intelligence 2018*"
-publication_short = "In *IJCAI 2018*"
+publication_short = "In *IJCAI*"
 
 # Abstract and optional shortened version.
 abstract = "The latent feature relational model (LFRM) is a generative model for graph-structured data to learn a binary vector representation for each node in the graph. The binary vector denotes the node's membership in one or more communities. At its core, the LFRM miller2009nonparametric is an overlapping stochastic blockmodel, which defines the link probability between any pair of nodes as a bilinear function of their community membership vectors. Moreover, using a nonparametric Bayesian prior (Indian Buffet Process) enables learning the number of communities automatically from the data. However, despite its appealing properties, inference in LFRM remains a challenge and is typically done via MCMC methods. This can be slow and may take a long time to converge. In this work, we develop a small-variance asymptotics based framework for the non-parametric Bayesian LFRM. This leads to an objective function that retains the nonparametric Bayesian flavor of LFRM, while enabling us to design deterministic inference algorithms for this model, that are easy to implement (using generic or specialized optimization routines) and are fast in practice. Our results on several benchmark datasets demonstrate that our algorithm is competitive to methods such as MCMC, while being much faster."
@@ -43,18 +43,18 @@ projects = ["LFRM-SVA"]
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 #tags = []
-tags = ["Accepted-Publications"]
+#tags = ["Accepted-Publications"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf = "files/resources/SVALFRM_IJCAI2018.pdf"
+#url_preprint = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

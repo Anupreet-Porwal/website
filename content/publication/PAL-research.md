@@ -1,23 +1,26 @@
 +++
-abstract = "In this paper, we consider the order estimation problem of a 2-dimensional complex superimposed exponential signal model in presence of additive white noise. We use the recently proposed Exponentially Embedded Family (EEF) rule for estimating the order of the 2-dimensional signal model and prove that the EEF rule based estimator is consistent in large sample scenario. Extensive simulations are performed to ascertain the performance of the order estimation rule and also to compare the finite sample performance of EEF rule based estimator with other popular order selection rules using simulation examples."
+abstract = "Recently a novel approach of model order selection based on penalizing adaptively the likelihood (PAL) function was introduced in [1]. In this paper, we use the PAL method for order estimation of complex valued nonlinear exponential (cisoid) model and study its asymptotic statistical properties. We investigate the asymptotic statistical properties for the 1-dimensional cisoid model under the assumption of ircularly symmetric gaussian error distribution and establish that the PAL estimator is consistent. We also present simulation examples to compare the performance of PAL rule with the commonly used information criteria based rules."
 abstract_short = ""
-authors = ["Anupreet Porwal" , "Sharmishtha Mitra", "Amit Mitra"]
-date = "2017-11-29"
+authors = ["Sharmishtha Mitra", "Anupreet Porwal"]
+date = "2017-11-11"
 image_preview = ""
 math = true
-publication_types = ["2"]
-publication = "In *Journal of Statistical Planning and Inference*"
-tags = ["Submitted-Publications"]
+publication_types = ["1"]
+publication = "In *DEStech Transactions on Engineering and Technology, Proceedings of International Conference on Economics, Statistics and Management Science, Hong Kong, 2017*"
+#publication_short = "In *MSSP*"
+#tags = ["Accepted-Publications"]
 projects = ["master1"]
-#publication_short = "In *SITIS*"
-#selected = false
-title = "Order estimation of 2-dimensional complex superimposed exponential signal model using Exponentially Embedded Family (EEF) rule: Large sample consistency properties"
-url_code = ""
-url_pdf = "#"
-url_project = "#"
-url_slides = "#"
 
+#selected = true
+title = "Order Estimation of Superimposed Nonlinear Complex Cisoid Model Using Adaptively Penalizing Likelihood Rule: Consistency Results"
+#url_code = "#"
+url_pdf = "files/resources/DEStech_PAL_2017.pdf"
+#url_project = "#"
+#url_slides = "#"
+#url_preprint = "#"
+
+
+
+# Optional featured image (relative to `static/img/` folder).
 
 +++
-
-
