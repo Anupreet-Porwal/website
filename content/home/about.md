@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Statistics"
-  institution = "University of Washington, Seattle"
+  institution = "University of Washington"
   
   course = "B.S.-M.S. in Mathematics and Scientific Computing"
   institution = "Indian Institute of Technology Kanpur, India "
