@@ -5,7 +5,7 @@
 date = 2016-04-20
 draft = false
 
-title = "Submitted Publications"
+title = "Publications"
 subtitle = ""
 widget = "publications"
 
@@ -20,7 +20,34 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 0
+
+# Filter toolbar.
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
+
+# Add or remove as many filters (`[[filter]]` instances) as you like.
+# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
+# To remove toolbar, delete/comment all instances of `[[filter]]` below.
+[[filter]]
+  name = "All"
+  tag = "*"
+[[filter]]
+  name = "Accepted Publications"
+  tag = ".Accepted-Publications"
+
+[[filter]]
+  name = "Submitted Publications"
+  tag = ".Submitted-Publications"
+
+  
+[[filter]]
+  name = "Work In Progress"
+  tag = ".WorkIn-Progress"
+
+
+
 
 # Filter by publication type.
 # -1: Any
