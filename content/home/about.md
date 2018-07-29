@@ -12,15 +12,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Probabilistic Machine Learning, Bayesian Statistics",
     "Statistical Modelling Techniques: Regression Analysis, Time Series Analysis",
+    "Probabilistic Machine Learning, Bayesian Statistics",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Statistics"
   institution = "University of Washington"
-  
+
   [[education.courses]]
   course = "B.S.-M.S. in Mathematics and Scientific Computing"
   institution = "Indian Institute of Technology Kanpur, India "
