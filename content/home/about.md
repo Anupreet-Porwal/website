@@ -17,15 +17,14 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[education.courses]
-   education.courses=[
+[[education.courses]]
   course = "Ph.D. in Statistics"
-  institution = "University of Washington, Seattle",
+  institution = "University of Washington"
   
+  [[education.courses]]
   course = "B.S.-M.S. in Mathematics and Scientific Computing"
-  institution = "Indian Institute of Technology Kanpur, India"
+  institution = "Indian Institute of Technology Kanpur, India "
   year = 2017
-  ]
 
  
 +++
