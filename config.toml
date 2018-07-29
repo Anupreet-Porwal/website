@@ -35,11 +35,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Anupreet Porwal"
-  role = "Analyst at Deutsche Bank"
+  role = "PhD Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Dept. of Mathematics and Statistics", url = "" },{ name = "Indian Institute of Technology Kanpur, India", url = "" } ]
+  organizations = [ { name = "Department of Statistics", url = "" },{ name = "University of Washington, Seattle", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "AnupreetPorwal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -170,6 +170,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/anupreet-porwal"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.in/citations?user=un4SzwsAAAAJ&hl=en&oi=ao"
 
   [[params.social]]
     icon = "file-pdf-o"
